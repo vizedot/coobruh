@@ -1,0 +1,14 @@
+Package: com.vizor.theme
+Name: TriHard
+Version: 1.1
+Architecture: iphoneos-arm
+Description: TriHard
+Maintainer: vize <vizedcreates@gmail.com>
+Author: vize <vizedcreates@gmail.com>
+Section: Themes
+Depends: com.spark.snowboard
+Filename: debs/vizor.theme.deb
+Size: 7317712
+MD5sum: 766e2653b833e37c407eb587876343a1
+SHA1: 57cef4205f0a785326fa54fc3ce949589b489504
+SHA256: 76cf3ad22c12deca9d32f7f02b058f807b98d7bfb9d0609a8b52eb8ac3edc6c2
