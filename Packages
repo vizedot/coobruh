@@ -7,7 +7,7 @@ Maintainer: vize <vizedcreates@gmail.com>
 Author: vize <vizedcreates@gmail.com>
 Section: Themes
 Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: "debs/vizor.theme.deb"
+Filename: debs/vizor.theme.deb
 Size: 7317518
 MD5sum: 0018d91d13eff5571648a040739b1ec8
 SHA1: 6f2271ff2f6ac98004d1bb71c4266da1a4bbceb5
