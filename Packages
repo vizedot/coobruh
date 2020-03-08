@@ -12,3 +12,18 @@ Size: 7317518
 MD5sum: 0018d91d13eff5571648a040739b1ec8
 SHA1: 6f2271ff2f6ac98004d1bb71c4266da1a4bbceb5
 SHA256: fb271d47d7c33e0df09510544331a938f5fe73f2b465ba4651ffc88da81b7f67
+
+Package: com.vizor.blobsss
+Name: BLOBSSS
+Version: 1.0
+Architecture: iphoneos-arm
+Description: BLOBSSS
+Maintainer: vize <vizedcreates@gmail.com>
+Author: vize <vizedcreates@gmail.com>
+Section: LS Widgets
+Depends: com.matchstic.xenhtml
+Filename: debs/vizor.blobsss.deb
+Size: 7317518
+MD5sum: 405c057766287c6c6cabccb8b0305e51
+SHA1: c9849449bb4d76b5f16b20ccc06afcf966df8d27
+SHA256: bc3707a29c1437e09a09eb2e4f8434bb5f8d5d281f0d403b25857edd56ea52de
