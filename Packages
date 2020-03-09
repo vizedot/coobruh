@@ -24,6 +24,6 @@ Section: LS Widgets
 Depends: com.matchstic.xenhtml
 Filename: debs/vizor.blobsss.deb
 Size: 291242
-MD5sum: 405c057766287c6c6cabccb8b0305e51
-SHA1: c9849449bb4d76b5f16b20ccc06afcf966df8d27
-SHA256: bc3707a29c1437e09a09eb2e4f8434bb5f8d5d281f0d403b25857edd56ea52de
+MD5sum: 030debae4f5488bf7b1d3c86d7f7fe6b
+SHA1: f7952f5ed5d47b76502de7866e6ba2fdfc1cd029
+SHA256: f08facb23e6aeed370040fb757058958dd7682318f04523dd8904fdb7f8cd9b2
